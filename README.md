@@ -94,6 +94,10 @@ project/
 
 This project uses ESLint for code linting and follows modern React best practices. The codebase is written in TypeScript for better type safety and developer experience.
 
+📸 Screenshots
+
+In Assests folder
+
 ## 📝 License
 
 MIT License - feel free to use this project for your own purposes.
