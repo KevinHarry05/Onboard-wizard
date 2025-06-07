@@ -28,7 +28,7 @@ A modern, interactive onboarding wizard built with React, TypeScript, and Vite. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/onboarding-wizard.git
+git clone https://github.com/KevinHarry05/onboarding-wizard.git
 cd onboarding-wizard
 ```
 
@@ -100,7 +100,7 @@ MIT License - feel free to use this project for your own purposes.
 
 ## 👨‍💻 Author
 
-Created by [Your Name]
+Created by [Kevin Harry]
 
 ## 🤝 Contributing
 
@@ -108,9 +108,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📫 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@KevinHarry05](https://github.com/KevinHarry05)
+- Email: kevinharry2005aug.com
 
 ---
 
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [Kevin Harry] 
